@@ -20,19 +20,19 @@ chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
 
 chart.data = [
   {
-    country: "PROV_004",
+    country: "Proveedor 4",
     litres: 19
   },
   {
-    country: "PROV_002",
+    country: "Proveedor 2",
     litres: 7
   },
    {
-    country: "PROV_003",
+    country: "Proveedor 3",
     litres: 4
   },
    {
-    country: "PROV_001",
+    country: "Proveedor 1",
     litres: 3
   },
 ];
